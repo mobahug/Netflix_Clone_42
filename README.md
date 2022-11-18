@@ -76,8 +76,9 @@ Created in only 4weeks.
   - Fullscreen
  
  
- ========= GIF in Progress =========
- 
+  <div>
+    <img height="320em"  src="https://user-images.githubusercontent.com/83179142/202702017-ddacdcd1-1e05-4d8d-8d8d-92750eed1d21.gif" alt="gif"/>
+  </div>
  
 ## Additional feature:
 
