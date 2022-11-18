@@ -6,11 +6,20 @@ Hypertube is a movie-watching website where you can choose from over 43.000 film
 We added 4 different languages to translate the website and based on that subtitles, qualities and what a basic movie-watching website needs.
 Created in only 4weeks.
 
-## Tools & languages
+## Tools & Languages
 
-PostgreSQL, React, Express, MUI, Nodejs,
-Docker, pgAdmin, DataGrip, Atlassian, Jira
-CSS, HTML
+  - PostgreSQL
+  - React
+  - Redux
+  - Express
+  - MUI
+  - Nodejs,
+  - Docker
+  - pgAdmin
+  - DataGrip
+  - Atlassian, Jira
+  - CSS
+  - HTML
 
 
 # Features:
