@@ -57,3 +57,20 @@ CSS, HTML
     <img height="320em"  src="https://user-images.githubusercontent.com/83179142/202673859-8fda9939-d2fc-4f68-a8b9-3a1687e7139d.gif" alt="gif"/>
   </div>
 
+
+## Video player
+
+  - Streaming the video using yts torrent API
+  - Changeable subtitles, by default based on the choosen language or availability
+  - Changeable quality
+  - Basic features like: pause/play
+  - Fullscreen
+ 
+ 
+ ========= GIF in Progress =========
+ 
+ 
+## Additional feature:
+
+  - Using crontab when a movie wasn't watched over 30 days from any user, get deleted from project file
+    On users watchlsit will stay anyway the movie
