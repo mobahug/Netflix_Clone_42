@@ -35,3 +35,8 @@ CSS, HTML
   - Listing movies by default most recent ones
   - Complex search and filter feature
   - Direct search for movie titles
+
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/83179142/202667460-26960950-79a1-47cc-a932-69ba974d253f.gif)
+
+
