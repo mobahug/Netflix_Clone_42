@@ -84,3 +84,9 @@ Created in only 4weeks.
 
   - Using crontab when a movie wasn't watched over 30 days from any user, get deleted from project file
     On users watchlsit will stay anyway the movie
+    
+ # Disclaimer
+ 
+   The project using Torrent API and downloading movies from it, which is in some countries might be illegal.
+   The project was created for educational purposes in school environment and computer!
+   Using to your own responsible!!!
