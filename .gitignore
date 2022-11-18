@@ -1,0 +1,7 @@
+.env
+node_modules
+client/build
+.DS_Store
+server/images
+movies
+subtitles

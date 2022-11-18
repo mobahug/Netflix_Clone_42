@@ -1,0 +1,158 @@
+{
+	"landing": {
+		"1": "Divertisment nesfârșit, întotdeauna la îndemâna dumneavoastră!",
+		"2": "Înscrie-te acum fără niciun cost!",
+		"3": "Vizionați filme online fără abonament.",
+		"4": "Prin protocolul BitTorrent, filmele sunt descărcate în siguranță și rapid.",
+		"5": "Cele mai noi și cele mai vechi clasice, toate într-un singur loc."
+	},
+	"login": {
+		"1": "Autentificare",
+		"2": "Autentifica-te și începe relaxarea!",
+		"3": "Utilizator sau adresa de email",
+		"4": "Parola",
+		"5": "Submite",
+		"6": "Ați uitat parola?"
+	},
+	"register": {
+		"1": "Înscrie-te",
+		"2": "Creează-ți contul!",
+		"3": "Numele de utilizator",
+		"4": "Nume",
+		"5": "Prenume",
+		"6": "E-mail",
+		"7": "Parolă",
+		"8": "Confirmă parola",
+		"9": "Submite",
+		"10": "Cont creat! Vă rugăm să îl activați urmarind link-ul din emailul de confirmare."
+	},
+	"profile": {
+		"0": "Dimensiunea maximă pentru imaginile încărcate este de 5 megabytes.",
+		"1": "Prenume",
+		"2": "Nume",
+		"3": "E-mail",
+		"4": "Editează profilul",
+		"5": "Adaugă poză de profil",
+		"6": "Schimbă parola",
+		"7": "Șterge cont",
+		"8": "Poza de profil setată!",
+		"10": "Filme vizionate"
+	},
+	"del": {
+		"1": "Sigur doriți să vă ștergeți complet contul?",
+		"2": "Sigur, sigur???",
+		"3": "100% sigur?",
+		"4": "Contul a fost șters! Adios!",
+		"5": "Success!"
+	},
+	"profile_settings": {
+		"0": "Profil",
+		"1": "Setările profilului modificate",
+		"2": "Aici poți modifica setările de profil.",
+		"3": "Numele de utilizator",
+		"4": "Nume",
+		"5": "Prenume",
+		"6": "E-mail",
+		"7": "Salvează setările",
+		"8": "Noua parolă setată!",
+		"9": "Schimbă parola",
+		"10": "Parola veche",
+		"11": "Parola nouă",
+		"12": "Confirmă parola nouă",
+		"13": "Submite",
+		"14": "Introduce parola veche, iar apoi pe cea nouă.",
+		"15": "Schimbă limba",
+		"16": "Schimbă paginația",
+		"17": "Paginație infinită",
+		"18": "Paginație",
+		"19": "Englenză",
+		"20": "Finlandeză",
+		"21": "Română",
+		"22": "Maghiară"
+	},
+	"reset": {
+		"1": "Noua parolă setată!",
+		"2": "Alegeți o parolă nouă",
+		"3": "Introduceți o parolă nouă",
+		"4": "Parola nouă",
+		"5": "Confirmă parola nouă",
+		"6": "Submite",
+		"7": "Resetați parola",
+		"8": "Petru a reseta parola vă rugăm să introduceți adresa de e-mail sau numele de utilizator.",
+		"9": "Nume utilizator / Adresa e-mail",
+		"10": "Dacă informațiile introduse au fost găsite în baza de date, un e-mail a fost trimis la adresa dumneavoastră de e-mail."
+	},
+	"confirm": {
+		"1": "Utilizatorul a fost verificat cu success!",
+		"2": "Verificarea utilizatorului a eșuat."
+	},
+	"nav": {
+		"1": "Autentificare",
+		"2": "Înscrie-te",
+		"3": "Profil",
+		"4": "Filme",
+		"5": "Deconectați-vă",
+		"6": "Settings"
+	},
+	"browsing": {
+		"1": "Caută",
+		"2": "Nume",
+		"3": "Rating",
+		"4": "An",
+		"5": "Seed",
+		"6": "Categorii",
+		"7": "Sortează",
+		"8": "Rating IMDB",
+		"9": "Dată apariție",
+		"10": "Ordine crescătoare",
+		"11": "Ordine descrescătoare",
+		"12": "Ordonează după",
+		"13": "All"
+	},
+	"categories": {
+		"1": "Acțiune",
+		"2": "Aventură",
+		"3": "Animație",
+		"4": "Biografie",
+		"5": "Comedie",
+		"6": "Crimă",
+		"7": "Documentar",
+		"8": "Dramă",
+		"9": "Familie",
+		"10": "Fantazie",
+		"11": "Film-Noir",
+		"12": "Istorie",
+		"13": "Groază",
+		"14": "Muzică",
+		"15": "Muzical",
+		"16": "Mister",
+		"17": "Romanță",
+		"18": "Sci-Fi",
+		"19": "Sport",
+		"20": "Triler",
+		"21": "Război",
+		"22": "Western"
+	},
+	"movie": {
+		"0": "Comentarii ▼",
+		"1": "Dacă v-a plăcut acest film, s-ar putea să vă placă și:",
+		"2": "Niciun comentariu. 😔",
+		"3": "Comentariu adăugat.",
+		"4": "Lăsați un comentariu"
+	},
+	"videoplayer": {
+		"0": "redare",
+		"1": "încărcare",
+		"2": "filmul nu s-a încărcat încă",
+		"3": "eroare",
+		"4": "pauză",
+		"5": "redare film",
+		"6": "Previzualizare,",
+		"7": " procent din film descărcat. Reîmprospătați pagina după descărcarea completă pentru calitate deplină.",
+		"8": "Calitate"
+	},
+	"watchlist": {
+		"0": "Filme vizualizate",
+		"1": "Nici un film vizualizat."
+	}
+}

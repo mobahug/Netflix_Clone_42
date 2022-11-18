@@ -1,0 +1,158 @@
+{
+	"landing": {
+		"1": "Saa loputon viihde, aivan sormenpäissäsi.",
+		"2": "Kirjaudu nyt ilman kustannusta",
+		"3": "Striimaa elokuvia linjoilla ilman tilausvaatimusta.",
+		"4": "BitTorrent-protokollalla elokuvien lataus turvallisesti ja nopeasti.",
+		"5": "Uusimmat elokuvat ja vanhimmat klassikot, kaikki samassa paketissa."
+	},
+	"login": {
+		"1": "Kirjaudu",
+		"2": "Kirjaudu ja aloita chillaus nyt!",
+		"3": "Käyttäjänimi tai sähköpostiosoite",
+		"4": "Salasana",
+		"5": "Lähetä",
+		"6": "Menit sitten unohtamaan salasanasi?"
+	},
+	"register": {
+		"1": "Rekisteröidy",
+		"2": "Luo uusi tili!",
+		"3": "Käyttäjänimi",
+		"4": "Etunimi",
+		"5": "Sukunimi",
+		"6": "Sähköpostiosoite",
+		"7": "Salasana",
+		"8": "Vahvista salasana",
+		"9": "Lähetä",
+		"10": "Käyttäjän luominen onnistui! Tarkista sähköpostiisi vahvistussähköposti."
+	},
+	"profile": {
+		"0": "Suurin sallittu kuvatiedoston koko on 5 megatavua.",
+		"1": "Etunimi",
+		"2": "Sukunimi",
+		"3": "Sähköpostiosoite",
+		"4": "Muokkaa profiilin asetuksia",
+		"5": "Valitse profiilikuva",
+		"6": "Vaihda salasana",
+		"7": "Poista käyttäjä",
+		"8": "Profiilikuva asetettu!",
+		"10": "Katsotut elokuvat"
+	},
+	"del": {
+		"1": "Oletko varma, että haluat poistaa tilisi?",
+		"2": "Oletko aivan, AIVAN varma?",
+		"3": "Oletko 100% varma?",
+		"4": "Tilisi on poistettu! Terve sitten!",
+		"5": "Sinut on kirjattu ulos. Kiitos kun käytit Hypertuubia!"
+	},
+	"profile_settings": {
+		"0": "Profiili",
+		"1": "Profiilin asetukset päivitetty",
+		"2": "Tässä voit muokata profiilisi asetuksia",
+		"3": "Käyttäjänimi",
+		"4": "Etunimi",
+		"5": "Sukunimi",
+		"6": "Sähköpostiosoite",
+		"7": "Tallenna asetukset",
+		"8": "Salasana vaihdettu onnistuneesti!",
+		"9": "Vaihda salasana",
+		"10": "Vanha salasana",
+		"11": "Uusi salasana",
+		"12": "Vahvista uusi salasana",
+		"13": "Lähetä",
+		"14": "Vahvista vanha salasanasi että voit luoda uuden.",
+		"15": "Vaihda kieltä",
+		"16": "Vaihda loputtoman rullauksen ja sivutuksen välillä",
+		"17": "Loputon rullaus",
+		"18": "Sivutus",
+		"19": "Englannin kieli",
+		"20": "Suomen kieli",
+		"21": "Romanian kieli",
+		"22": "Unkarin kieli"
+	},
+	"reset": {
+		"1": "Salasana vaihdettu onnistuneesti! Kirjaudu sisään.",
+		"2": "Aseta uusi salasana",
+		"3": "Aseta tiliisi uusi turvallinen salasana.",
+		"4": "Uusi salasana",
+		"5": "Vahvista uusi salasana",
+		"6": "Lähetä",
+		"7": "Resetoi salasana",
+		"8": "Anna käyttäjänimesi tai sähkäpostiosoitteesi salasanan nollaamiseksi.",
+		"9": "Käyttäjänimi / Sähköpostiosoite",
+		"10": "Jos näillä tiedoilla löytyi käyttäjätili, lähetimme sinulle sähköpostia. Tarkista postilaatikkosi salasanan nollaamiseksi."
+	},
+	"confirm": {
+		"1": "Käyttäjä vahvistettu onnistuneesti! Kirjaudu sisään.",
+		"2": "Käyttäjän vahvistus epäonnistui."
+	},
+	"nav": {
+		"1": "Kirjaudu",
+		"2": "Rekisteröidy",
+		"3": "Profiili",
+		"4": "Etsi elokuvia",
+		"5": "Kirjaudu ulos",
+		"6": "Asetukset"
+	},
+	"browsing": {
+		"1": "Etsi",
+		"2": "Nimi",
+		"3": "IMDB-arvosana",
+		"4": "Vuosi",
+		"5": "Jakajat",
+		"6": "Kategoriat",
+		"7": "Järjestä",
+		"8": "IMDB-arvosana",
+		"9": "Latauspäivä",
+		"10": "Nouseva",
+		"11": "Laskeva",
+		"12": "Järjestys",
+		"13": "Kaikki"
+	},
+	"categories": {
+		"1": "Toiminta",
+		"2": "Seikkailu",
+		"3": "Animaatio",
+		"4": "Elämäkerta",
+		"5": "Komedia",
+		"6": "Rikos",
+		"7": "Dokumentti",
+		"8": "Draama",
+		"9": "Perhe",
+		"10": "Fantasia",
+		"11": "Film-Noir",
+		"12": "Historia",
+		"13": "Kauhu",
+		"14": "Musiikki",
+		"15": "Musikaali",
+		"16": "Mysteeri",
+		"17": "Romanttinen",
+		"18": "Tieteiskuvitelma",
+		"19": "Sportti",
+		"20": "Trilleri",
+		"21": "Sota",
+		"22": "Western"
+	},
+	"movie": {
+		"0": "Kommentit ▼",
+		"1": "Jos pidit tästä, suosittelemme:",
+		"2": "Ei kommentteja. 😔",
+		"3": "Kommentti lisätty.",
+		"4": "Lähetä kommentti"
+	},
+	"videoplayer": {
+		"0": "toistaa elokuvaa",
+		"1": "puskuroida elokuvaa",
+		"2": "elokuva ei ole vielä ladattu",
+		"3": "lähde tiedosto virhe",
+		"4": "tauolla",
+		"5": "elokuva pyörii",
+		"6": "Pyörii esikatselulla,",
+		"7": " prosenttia elokuvasta on ladattuna. Päivitä sivu latauksen jälkeen täyden katselukokemuksen saamiseksi.",
+		"8": "Laatu"
+	},
+	"watchlist": {
+		"0": "Katsotut elokuvat",
+		"1": "Ei katsottu elokuvia."
+	}
+}

@@ -1,0 +1,158 @@
+{
+	"landing": {
+		"1": "Get endless entertainment, right at your fingertips.",
+		"2": "Sign Up Now without any cost",
+		"3": "Stream movies online with no subscription required.",
+		"4": "With BitTorrent protocol, movies are downloaded securely and quickly.",
+		"5": "Newest movies and oldest classics, all in one place."
+	},
+	"login": {
+		"1": "Login",
+		"2": "Login and start chillin' now!",
+		"3": "Username or e-mail address",
+		"4": "Password",
+		"5": "Submit",
+		"6": "Forgot password?"
+	},
+	"register": {
+		"1": "Sign up",
+		"2": "Create your account!",
+		"3": "Username",
+		"4": "First name",
+		"5": "Last name",
+		"6": "E-mail",
+		"7": "Password",
+		"8": "Confirm password",
+		"9": "Submit",
+		"10": "User created successfully! Please check your inbox for confirmation e-mail."
+	},
+	"profile": {
+		"0": "The maximum size for uploaded images is 5 megabytes.",
+		"1": "First name",
+		"2": "Last name",
+		"3": "E-mail",
+		"4": "Edit profile",
+		"5": "Set profile picture",
+		"6": "Change passwords",
+		"7": "Delete user",
+		"8": "Profile picture set!",
+		"10": "Watched movies"
+	},
+	"del": {
+		"1": "Are you sure you want to completely delete your account?",
+		"2": "Are you really, REALLY sure?",
+		"3": "Are you 100% sure?",
+		"4": "Your account has been deleted! Bye bye!",
+		"5": "Logged out. Thank you for using Hypertube!"
+	},
+	"profile_settings": {
+		"0": "Profile",
+		"1": "Profile Settings Updated",
+		"2": "Here you can edit your profile settings",
+		"3": "Username",
+		"4": "First name",
+		"5": "Last Name",
+		"6": "E-mail",
+		"7": "Save settings",
+		"8": "New password created successfully!",
+		"9": "Change password",
+		"10": "Old Password",
+		"11": "New Password",
+		"12": "Confirm new password",
+		"13": "Submit",
+		"14": "Please confirm your old password to make a new one.",
+		"15": "Change your language",
+		"16": "Change between infinite scroll and pagination",
+		"17": "Infinite Scroll",
+		"18": "Pagination",
+		"19": "English",
+		"20": "Finnish",
+		"21": "Romanian",
+		"22": "Hungarian"
+	},
+	"reset": {
+		"1": "Password successfully changed! Please log in.",
+		"2": "Set new password",
+		"3": "Enter a new secure password for your account.",
+		"4": "New Password",
+		"5": "Confirm new password",
+		"6": "Submit",
+		"7": "Reset password",
+		"8": "Please enter either your username or e-mail address to reset your password.",
+		"9": "Username / Email address",
+		"10": "If an account with these details was found, a reset email was sent. Please check your inbox to reset your password."
+	},
+	"confirm": {
+		"1": "User verified successfully! Please log in.",
+		"2": "User verifying failed."
+	},
+	"nav": {
+		"1": "Login",
+		"2": "Signup",
+		"3": "Profile",
+		"4": "Browsing",
+		"5": "Log Out",
+		"6": "Settings"
+	},
+	"browsing": {
+		"1": "Search",
+		"2": "Name",
+		"3": "Rate",
+		"4": "Year",
+		"5": "Seed",
+		"6": "Categories",
+		"7": "Sort by",
+		"8": "IMDB rating",
+		"9": "Upload date",
+		"10": "Ascending",
+		"11": "Descending",
+		"12": "Order by",
+		"13": "All"
+	},
+	"categories": {
+		"1": "Action",
+		"2": "Adventure",
+		"3": "Animation",
+		"4": "Biography",
+		"5": "Comedy",
+		"6": "Crime",
+		"7": "Documentary",
+		"8": "Drama",
+		"9": "Family",
+		"10": "Fantasy",
+		"11": "Film-Noir",
+		"12": "History",
+		"13": "Horror",
+		"14": "Music",
+		"15": "Musical",
+		"16": "Mystery",
+		"17": "Romance",
+		"18": "Sci-Fi",
+		"19": "Sport",
+		"20": "Thriller",
+		"21": "War",
+		"22": "Western"
+	},
+	"movie": {
+		"0": "Comments ▼",
+		"1": "If you liked this, you might also like:",
+		"2": "No comments. 😔",
+		"3": "Comment added.",
+		"4": "Leave a comment"
+	},
+	"videoplayer": {
+		"0": "playing",
+		"1": "buffering",
+		"2": "movie not loaded yet",
+		"3": "source file error",
+		"4": "paused",
+		"5": "movie playing",
+		"6": "Playing as a preview,",
+		"7": " percent of the movie downloaded. Refresh the page after complete download for full quality.",
+		"8": "Quality"
+	},
+	"watchlist": {
+		"0": "Movies that you watched",
+		"1": "No watched movies."
+	}
+}
