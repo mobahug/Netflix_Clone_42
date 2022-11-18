@@ -27,9 +27,6 @@ CSS, HTML
   - Switch button to change infinite scroll and pagination on the movie browsing page
   
   
-  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/83179142/202658873-2df0c9f2-3e1c-43da-9aa3-1d2088ce2a1a.gif)
-  
-  
   <div>
     <img height="50%" width="50%" src="https://user-images.githubusercontent.com/83179142/202658873-2df0c9f2-3e1c-43da-9aa3-1d2088ce2a1a.gif" alt="gif"/>
   </div>
