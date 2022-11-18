@@ -52,3 +52,5 @@ CSS, HTML
   - After clicking the play button, add the movie to the user's watchlist and marked as watched on the browsing page
 
 
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/83179142/202673859-8fda9939-d2fc-4f68-a8b9-3a1687e7139d.gif)
+
