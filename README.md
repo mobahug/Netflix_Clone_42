@@ -42,3 +42,13 @@ CSS, HTML
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/83179142/202667460-26960950-79a1-47cc-a932-69ba974d253f.gif)
 
 
+  ## Movie page
+  
+  - Video player
+  - Comment section
+  - Visit other user's profile page
+  - Movie description and additional details
+  - Based on the movie, a recommendation list of movies
+  - After clicking the play button, add the movie to the user's watchlist and marked as watched on the browsing page
+
+
