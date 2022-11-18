@@ -41,6 +41,9 @@ CSS, HTML
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/83179142/202667460-26960950-79a1-47cc-a932-69ba974d253f.gif)
 
+ <div>
+    <img height="320em"  src="https://user-images.githubusercontent.com/83179142/202667460-26960950-79a1-47cc-a932-69ba974d253f.gif" alt="gif"/>
+  </div>
 
   ## Movie page
   
