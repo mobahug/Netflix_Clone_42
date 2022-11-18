@@ -87,6 +87,6 @@ Created in only 4weeks.
     
  # Disclaimer
  
-   The project using Torrent API and downloading movies from it, which is in some countries might be illegal.
-   The project was created for educational purposes in school environment and computer!
-   Using to your own responsible!!!
+   - The project using Torrent API and downloading movies from it, which is in some countries might be illegal.
+   - The project was created for educational purposes in school environment and computer!
+   - Using to your own responsible!!!
