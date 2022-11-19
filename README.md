@@ -1,20 +1,17 @@
-# Hypertube the Netflix clone
+# Hypertube - A Netflix-like movie streaming website
+## ⚠️⚠️⚠️ this was created only for pure educational reasons! 
+### by [erikpeik](https://github.com/erikpeik), [SeanTroy](https://github.com/SeanTroy), [ghorvath](https://github.com/mobahug) and [acamaras0](https://github.com/acamaras0)
 
-## by [ghorvath](https://github.com/mobahug), [erikpeik](https://github.com/erikpeik), [acamaras0](https://github.com/acamaras0) and [SeanTroy](https://github.com/SeanTroy)
-
-Hypertube is a movie-watching website where you can choose from over 43.000 films.
-We added 4 different languages to translate the website and based on that subtitles, qualities and what a basic movie-watching website needs.
-Created in only 4weeks.
+A Netflix-like movie streaming website where you can choose from over 43.000 movies.
+The website has 4 different language options: English, Finnish, Romanian and Hungarian and different streaming qualities.
 
 ## Tools & Languages
 
-  - PostgreSQL
-  - React
-  - Redux
-  - Express
+  - React with Redux
+  - NodeJS with Express
   - MUI
-  - Nodejs,
   - Docker
+  - PostgreSQL
   - pgAdmin
   - DataGrip
   - Atlassian, Jira
@@ -26,14 +23,14 @@ Created in only 4weeks.
 
 ## Logging in/Registration and Profile Page
 
-  - We have a basic login with UI response in case of error.
-  - Two-step registration with email verification.
+  - The website has a secure authentification system using cookies
+  - Two-step registration with email verification
   - Forget password with email link token.
-  - Using Google API to translate emails and error/success messages
-  - Basic info on the Profile page
+  - Google API used to translate the emails and every error/success messages
+  - User profile page
   - Upload profile picture
-  - Change password, email, firstname, lastname, username, language
-  - Switch button to change infinite scroll and pagination on the movie browsing page
+  - Possibility to change the password, email, firstname, lastname, username, language and/or profile page
+  - Possibility to change between infinite scroll and pagination on the movie browsing page
   
   
   <div>
@@ -43,9 +40,9 @@ Created in only 4weeks.
   
   ## Browsing
   
-  - Listing movies by default most recent ones
-  - Complex search and filter feature
-  - Direct search for movie titles
+  - Listing movies (IMBD Rating by default)
+  - Complex search and filter features
+  - Search movies by their title
 
 
   <div>
@@ -60,7 +57,7 @@ Created in only 4weeks.
   - Visit other user's profile page
   - Movie description and additional details
   - Based on the movie, a recommendation list of movies
-  - After clicking the play button, add the movie to the user's watchlist and marked as watched on the browsing page
+  - After clicking the play button, the movie is added to the user's watchlist and marked as watched on the browsing page
 
   <div>
     <img height="320em"  src="https://user-images.githubusercontent.com/83179142/202673859-8fda9939-d2fc-4f68-a8b9-3a1687e7139d.gif" alt="gif"/>
@@ -71,9 +68,9 @@ Created in only 4weeks.
 
   - Streaming the video using yts torrent API
   - Changeable subtitles, by default based on the choosen language or availability
-  - Changeable quality
+  - Changeable movie quality
   - Basic features like: pause/play
-  - Fullscreen
+  - Fullscreen option
  
  
   <div>
@@ -82,11 +79,5 @@ Created in only 4weeks.
  
 ## Additional feature:
 
-  - Using crontab when a movie wasn't watched over 30 days from any user, get deleted from project file
-    On users watchlsit will stay anyway the movie
-    
- # Disclaimer
- 
-   - The project using Torrent API and downloading movies from it, which is in some countries might be illegal.
-   - The project was created for educational purposes in school environment and computer!
-   - Using to your own responsible!!!
+  - Using crontab, a movie that wasn't watched for over 30 days, will be deleted.
+  - On users Watched movies list will still appear as watched.
